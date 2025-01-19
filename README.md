@@ -370,7 +370,7 @@ Paste it into the inline code editor.
 
 3.Run the function and check CloudWatch Logs for errors.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/a52e2e00307874de6cc6edc02aed93b3f2db451f/images/Screenshot%202025-01-19%20101641.png)
 
 
 
@@ -379,6 +379,17 @@ Paste it into the inline code editor.
 5.Verify that SMS notifications are sent to the subscribed users.
 
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/22c61c2f75504cde306c51adab02db20b0bc0caf/images/Screenshot%202025-01-19%20101513.png)
+
+
+6. Now go to your email inbox you should be able to see notifications for upcoming NBA games.
+   
+   ## Congratulations
+
+![image_alt]()
+
+
+
+
 
 
 
