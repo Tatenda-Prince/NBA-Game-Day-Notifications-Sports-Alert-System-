@@ -127,6 +127,7 @@ Now click Create Subscription
 4.If you added an Email subscription:
 
 ~ Check the inbox of the provided email address.
+
 ~ Confirm the subscription by clicking the confirmation link in the email.
 
 Now head back to your console to check that pending confirmation if it was successfully.
@@ -159,7 +160,9 @@ Now head back to your console to check that pending confirmation if it was succe
 
 4.Replace REGION and ACCOUNT_ID with your AWS region and account ID.
 
+
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/8ee4b446403f16d807972965be5162d71f0982ac/images/Screenshot%202025-01-19%20095927.png)
+
 
 5.Click Next: Tags (you can skip adding tags).
 
@@ -169,10 +172,7 @@ Now head back to your console to check that pending confirmation if it was succe
 
 7.Enter a name for the policy (e.g., gd_sns_policy).
 
-![image_alt]()
-
-
-
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/b12025a7d372cdc229e6b63af02d591a69a3da49/images/Screenshot%202025-01-19%20100005.png)
 
 
 8.Review and click Create Policy.
