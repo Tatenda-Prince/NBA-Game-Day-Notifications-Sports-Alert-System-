@@ -362,12 +362,17 @@ Paste it into the inline code editor.
 
 1.Open the Lambda function in the AWS Management Console.
 
+
 2.Create a test event to simulate execution.
 
 ![image_alt]() 
 
 
 3.Run the function and check CloudWatch Logs for errors.
+
+![image_alt]()
+
+
 
 
 
