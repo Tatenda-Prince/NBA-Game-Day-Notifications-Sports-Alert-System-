@@ -404,9 +404,13 @@ Paste it into the inline code editor.
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/3bf3dc42bee6cda94621f199cb41ecbc60066b62/images/Screenshot%202025-01-19%20105711.png)
 
 
-Under Targets, select the Lambda function (gameday_lambdaFuctions) and save the rule.
+5.Under Targets, select the Lambda function (gameday_lambdaFuctions) and save the rule.
 
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/327a29a9c91a76dee594e263e0c0410dd9a7bc19/images/Screenshot%202025-01-19%20105827.png)
+
+## Congratulations!
+
+You’ve successfully completed "Live Scores" designing a notification system with AWS SNS and Lambda.Securing AWS services with least privilege IAM policies.Automating workflows using EventBridge.Integrating external APIs into cloud-based workflows.
 
 
 
