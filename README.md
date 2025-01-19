@@ -105,7 +105,17 @@ After you run the file you should be able to see the same message as below
 
 Now that our SNS Topic was successfully created navigate to your aws management console to view your SNS Topic.
 
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/73442e88ff280ba0a7bb52c16676c37e100d4b74/images/Screenshot%202025-01-19%20094742.png)
+
+
+## Step 2: Add Subscriptions to the SNS Topic
+
+1.After creating the topic, click on the topic name from the list.
+2.Navigate to the Subscriptions tab and click Create subscription
+
 ![image_alt]()
+
+
 
 
 
