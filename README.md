@@ -178,6 +178,46 @@ Now head back to your console to check that pending confirmation if it was succe
 8.Review and click Create Policy.
 
 
+## Step 4: Create an IAM Role for Lambda
+
+1.Open the IAM service in the AWS Management Console.
+
+
+2.Click Roles → Create Role.
+
+![image_alt]()
+
+
+
+3.Select AWS Service and choose Lambda.
+
+![image_alt]() 
+
+4.Attach the following policies:
+
+~SNS Publish Policy (gd_sns_policy) (created in the previous step).
+
+~Lambda Basic Execution Role (AWSLambdaBasicExecutionRole) (an AWS managed policy).
+
+![image_alt]()
+
+
+5.Click Next: Tags (you can skip adding tags).
+
+6.Click Next: Review.
+
+7.Enter a name for the role (e.g., gd_role).
+
+![image_alt]()
+
+
+8.Review and click Create Role.
+
+9.Copy and save the ARN of the role for use in the Lambda function.
+
+
+
+
 
 
 
