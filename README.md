@@ -159,7 +159,7 @@ Step 3: Create the SNS Publish Policy
 
 4.Replace REGION and ACCOUNT_ID with your AWS region and account ID.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/81180047352432c79adff2d344f559b6cece564f/images/Screenshot%202025-01-19%20095442.png)
 
 5.Click Next: Tags (you can skip adding tags).
 
