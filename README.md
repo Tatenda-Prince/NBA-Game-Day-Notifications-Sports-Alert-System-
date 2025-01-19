@@ -41,7 +41,7 @@ NBA APIs (Application Programming Interfaces) are services that provide access t
 
 1.Free account with subscription and API Key at sportsdata.io
 
-2.Personal AWS account with basic understanding of AWS and Python
+2.Personal AWS account with basic understanding of AWS and Pythonboto3 installed 
 
 3.Visual Code Studio
 
@@ -57,6 +57,58 @@ NBA APIs (Application Programming Interfaces) are services that provide access t
 
 5.IAM Security:
 Least privilege policies for Lambda, SNS, and EventBridge.
+
+# Objectives
+
+1.Fetches live NBA game scores using an external API.
+
+2.Sends formatted score updates to subscribers via SMS/Email using Amazon SNS.
+
+3.Scheduled automation for regular updates using Amazon EventBridge.
+
+4.Designed with security in mind, following the principle of least privilege for IAM roles.
+
+## Step 1: Create an SNS Topic using pythonboto3 
+
+1.Open the your Visual Code Studio and create a new file sns.py  copy and paste the code below.
+
+
+```python
+import boto3
+
+def create_sns_topic(topic_name):
+    # Create an SNS client
+    sns_client = boto3.client('sns', region_name='us-east-1')  # Replace with your region
+
+    try:
+        # Create a topic
+        response = sns_client.create_topic(Name=topic_name)
+        topic_arn = response['TopicArn']
+        print(f"Topic created successfully! ARN: {topic_arn}")
+        return topic_arn
+    except Exception as e:
+        print(f"Error creating topic: {e}")
+        return None
+
+if __name__ == "__main__":
+    topic_name = "gameday_topic"  # Replace with your desired topic name
+    create_sns_topic(topic_name)
+```
+
+To run this python file simply type:
+
+`python sns.py`
+
+After you run the file you will see the same message as below
+
+![image_alt]()
+
+
+
+
+
+
+
 
    
 
