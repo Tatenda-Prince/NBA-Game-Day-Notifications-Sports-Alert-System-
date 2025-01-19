@@ -199,7 +199,7 @@ Now head back to your console to check that pending confirmation if it was succe
 
 ~Lambda Basic Execution Role (AWSLambdaBasicExecutionRole) (an AWS managed policy).
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/becfa634c7e5444b301a14222de7a4d1b07b8d1e/images/Screenshot%202025-01-19%20100338.png)
 
 
 5.Click Next: Tags (you can skip adding tags).
