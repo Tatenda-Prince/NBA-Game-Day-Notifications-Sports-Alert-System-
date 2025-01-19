@@ -208,7 +208,7 @@ Now head back to your console to check that pending confirmation if it was succe
 
 7.Enter a name for the role (e.g., gd_role).
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/8ee1718151d57afa90e3c9d5bfde15ebc2f8ef5f/images/Screenshot%202025-01-19%20100428.png)
 
 
 8.Review and click Create Role.
