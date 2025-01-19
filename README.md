@@ -401,7 +401,7 @@ Paste it into the inline code editor.
 
 4.Set the cron schedule for when you want updates (e.g., hourly).
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/3bf3dc42bee6cda94621f199cb41ecbc60066b62/images/Screenshot%202025-01-19%20105711.png)
 
 
 Under Targets, select the Lambda function (gameday_lambdaFuctions) and save the rule.
