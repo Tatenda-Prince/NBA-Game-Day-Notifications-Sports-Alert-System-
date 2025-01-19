@@ -231,7 +231,7 @@ Step 5: Deploy the Lambda Function
 
 6.Choose Python 3.x as the runtime.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/e122a34a086a5a2ae8900589751e6343629a96d7/images/Screenshot%202025-01-19%20100737.png)
 
 7.Assign the IAM role created earlier (gameday_role) to the function.
 
