@@ -191,7 +191,7 @@ Now head back to your console to check that pending confirmation if it was succe
 
 3.Select AWS Service and choose Lambda.
 
-![image_alt]() 
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/de7a4900b9a475936ab3a65b93de1fea234e5797/images/Screenshot%202025-01-19%20100131.png) 
 
 4.Attach the following policies:
 
