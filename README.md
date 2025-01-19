@@ -397,7 +397,7 @@ Paste it into the inline code editor.
 
 3.Select Event Source: Schedule.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/e91c6a840c605bcced891f7421ce5e88033a4d88/images/Screenshot%202025-01-19%20105604.png)
 
 4.Set the cron schedule for when you want updates (e.g., hourly).
 
