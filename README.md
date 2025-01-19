@@ -387,6 +387,27 @@ Paste it into the inline code editor.
 
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/15e66a9a5af5a9b0210b4c76c834fcadd0c4fe51/images/Screenshot%202025-01-19%20102428.png)
 
+# Bonus : Set Up Automation with Eventbridge
+
+1.Navigate to the Eventbridge service in the AWS Management Console.
+
+2.Go to Rules → Create Rule.
+
+![image_alt]()
+
+3.Select Event Source: Schedule.
+
+![image_alt]()
+
+4.Set the cron schedule for when you want updates (e.g., hourly).
+
+![image_alt]()
+
+
+Under Targets, select the Lambda function (gameday_lambdaFuctions) and save the rule.
+
+![image_alt]()
+
 
 
 
