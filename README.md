@@ -39,7 +39,7 @@ NBA APIs (Application Programming Interfaces) are services that provide access t
 
 # Prerequisites
 
-1.Free account with subscription and API Key at sportsdata.io
+1.Free account with subscription and API Key at https://sportsdata.io
 
 2.Personal AWS account with basic understanding of AWS and Pythonboto3 installed 
 
