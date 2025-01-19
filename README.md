@@ -185,7 +185,7 @@ Now head back to your console to check that pending confirmation if it was succe
 
 2.Click Roles → Create Role.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/63d073df33ad28d7920b357f001d4e15b8e51f7b/images/Screenshot%202025-01-19%20100118.png)
 
 
 
