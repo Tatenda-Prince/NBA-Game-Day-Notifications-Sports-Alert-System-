@@ -68,6 +68,10 @@ Least privilege policies for Lambda, SNS, and EventBridge.
 
 4.Designed with security in mind, following the principle of least privilege for IAM roles.
 
+# Use Case
+
+You work at "Up The Chels" streaming center and you are assigned to sending live game scores or updates and distributing alerts for scheduled games or breaking news about the NBA.
+
 ## Step 1: Create an SNS Topic using pythonboto3 
 
 1.Open the your Visual Code Studio and create a new file sns.py  copy and paste the code below.
