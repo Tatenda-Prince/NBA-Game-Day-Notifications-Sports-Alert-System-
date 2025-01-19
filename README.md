@@ -365,7 +365,7 @@ Paste it into the inline code editor.
 
 2.Create a test event to simulate execution.
 
-![image_alt]() 
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/b1f670a9dfb95064254aac8aa64fda557b7d4be5/images/Screenshot%202025-01-19%20101430.png) 
 
 
 3.Run the function and check CloudWatch Logs for errors.
