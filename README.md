@@ -235,7 +235,7 @@ Step 5: Deploy the Lambda Function
 
 7.Assign the IAM role created earlier (gameday_role) to the function.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/8279051f93447a6337a0993395f76072ad5db1fa/images/Screenshot%202025-01-19%20100745.png)
 
 ~ Under the Function Code section:
 
