@@ -131,7 +131,51 @@ Now click Create Subscription
 
 Now head back to your console to check that pending confirmation if it was successfully.
 
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/2fb9b12882547272a7eaa4d0e2ba310bfd154376/images/Screenshot%202025-01-19%20095007.png)
+
+
+Step 3: Create the SNS Publish Policy
+
+1.Open the IAM service in the AWS Management Console.
+
+2.Navigate to Policies → Create Policy.
+
 ![image_alt]()
+
+3.Click JSON and paste the JSON policy from gd_sns_policy.json file below
+
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "sns:Publish",
+            "Resource": "arn:aws:sns:REGION:ACCOUNT_ID:gd_topic"
+        }
+    ]
+}
+```
+
+4.Replace REGION and ACCOUNT_ID with your AWS region and account ID.
+
+![image_alt]()
+
+5.Click Next: Tags (you can skip adding tags).
+
+
+6.Click Next: Review.
+
+
+7.Enter a name for the policy (e.g., gd_sns_policy).
+
+![image_alt]()
+
+
+
+
+
+8.Review and click Create Policy.
 
 
 
