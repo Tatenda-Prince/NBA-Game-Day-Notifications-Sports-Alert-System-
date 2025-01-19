@@ -393,7 +393,7 @@ Paste it into the inline code editor.
 
 2.Go to Rules → Create Rule.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/c37313c22711a30057618b6beced7ea9a4b6d6a0/images/Screenshot%202025-01-19%20105005.png)
 
 3.Select Event Source: Schedule.
 
