@@ -223,7 +223,7 @@ Step 5: Deploy the Lambda Function
 
 2.Click Create Function.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/16e292a69379287223a07de908934dd09960d55e/images/Screenshot%202025-01-19%20100554.png)
 
 3.Select Author from Scratch.
 
