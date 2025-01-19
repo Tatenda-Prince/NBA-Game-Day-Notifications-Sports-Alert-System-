@@ -134,7 +134,7 @@ Now head back to your console to check that pending confirmation if it was succe
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/2fb9b12882547272a7eaa4d0e2ba310bfd154376/images/Screenshot%202025-01-19%20095007.png)
 
 
-Step 3: Create the SNS Publish Policy
+## Step 3: Create the SNS Publish Policy
 
 1.Open the IAM service in the AWS Management Console.
 
@@ -159,7 +159,7 @@ Step 3: Create the SNS Publish Policy
 
 4.Replace REGION and ACCOUNT_ID with your AWS region and account ID.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/8ee4b446403f16d807972965be5162d71f0982ac/images/Screenshot%202025-01-19%20095927.png)
 
 5.Click Next: Tags (you can skip adding tags).
 
