@@ -36,6 +36,31 @@ Boto3 is the Amazon Web Services (AWS) SDK for Python. It enables Python develop
 ## NBA API
 
 NBA APIs (Application Programming Interfaces) are services that provide access to basketball-related data and functionalities from the National Basketball Association (NBA). These APIs are widely used by developers to build applications, websites, or data analysis tools centered around NBA content. Such as Live game scores and updates and Game schedules and results.
+
+# Prerequisites
+
+1.Free account with subscription and API Key at sportsdata.io
+
+2.Personal AWS account with basic understanding of AWS and Python
+
+3.Visual Code Studio
+
+## Technologies Used
+
+1.Cloud Provider: AWS
+
+2.Core Services: SNS, Lambda, EventBridge
+
+3.External API: NBA Game API (SportsData.io)
+
+4.Programming Language: Python 3.x
+
+5.IAM Security:
+Least privilege policies for Lambda, SNS, and EventBridge.
+
+   
+
+
  
 
 
