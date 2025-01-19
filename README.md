@@ -216,7 +216,7 @@ Now head back to your console to check that pending confirmation if it was succe
 9.Copy and save the ARN of the role for use in the Lambda function.
 
 
-Step 5: Deploy the Lambda Function
+## Step 5: Deploy the Lambda Function
 
 1.Open the AWS Management Console and navigate to the Lambda service.
 
@@ -225,21 +225,26 @@ Step 5: Deploy the Lambda Function
 
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/16e292a69379287223a07de908934dd09960d55e/images/Screenshot%202025-01-19%20100554.png)
 
+
 3.Select Author from Scratch.
 
 5.Enter a function name (e.g., gameday_lambdafuction_notifications).
 
 6.Choose Python 3.x as the runtime.
 
+
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/e122a34a086a5a2ae8900589751e6343629a96d7/images/Screenshot%202025-01-19%20100737.png)
+
 
 7.Assign the IAM role created earlier (gameday_role) to the function.
 
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/8279051f93447a6337a0993395f76072ad5db1fa/images/Screenshot%202025-01-19%20100745.png)
 
+
 ~ Under the Function Code section:
 
-~Copy the content of the gd_notifications.py file from the repository.
+~Copy the content of the gd_notifications.py file below or from the repository.
+
 
 ```python
 import os
@@ -337,17 +342,38 @@ def lambda_handler(event, context):
 
 ```
 
+
 Paste it into the inline code editor.
+
 
 8.Under the Environment Variables section, add the following:
 
 ~NBA_API_KEY: your NBA API key.
+
 ~SNS_TOPIC_ARN: the ARN of the SNS topic created earlier.
+
 
 ![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/19789ebc4421484cd5be7f3ee3bdec01b745d2d5/images/Screenshot%202025-01-19%20101148.png)
 
+
 9.Click Create Function.
 
+## Step 6: Test the System
+
+1.Open the Lambda function in the AWS Management Console.
+
+2.Create a test event to simulate execution.
+
+![image_alt]() 
+
+
+3.Run the function and check CloudWatch Logs for errors.
+
+
+
+5.Verify that SMS notifications are sent to the subscribed users.
+
+![image_alt]()
 
 
 
