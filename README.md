@@ -111,9 +111,33 @@ Now that our SNS Topic was successfully created navigate to your aws management 
 ## Step 2: Add Subscriptions to the SNS Topic
 
 1.After creating the topic, click on the topic name from the list.
+
 2.Navigate to the Subscriptions tab and click Create subscription
 
+3.Select a Protocol:
+
+   ~ Choose Email.
+   
+  ~ Enter a valid email address.
+
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/ddcd1099c7cea634b1ba2beadc20e8c2fd4975bc/images/Screenshot%202025-01-19%20094902.png)
+
+Now click Create Subscription
+
+4.If you added an Email subscription:
+
+~ Check the inbox of the provided email address.
+~ Confirm the subscription by clicking the confirmation link in the email.
+
+Now head back to your console to check that pending confirmation if it was successfully.
+
 ![image_alt]()
+
+
+
+
+
+
 
 
 
