@@ -378,7 +378,7 @@ Paste it into the inline code editor.
 
 5.Verify that SMS notifications are sent to the subscribed users.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/22c61c2f75504cde306c51adab02db20b0bc0caf/images/Screenshot%202025-01-19%20101513.png)
 
 
 
