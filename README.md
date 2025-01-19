@@ -406,7 +406,7 @@ Paste it into the inline code editor.
 
 Under Targets, select the Lambda function (gameday_lambdaFuctions) and save the rule.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/327a29a9c91a76dee594e263e0c0410dd9a7bc19/images/Screenshot%202025-01-19%20105827.png)
 
 
 
