@@ -99,9 +99,16 @@ To run this python file simply type:
 
 `python sns.py`
 
-After you run the file you will see the same message as below
+After you run the file you should be able to see the same message as below
+
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/49632a24960d7fa4b445dfcb4875703a1a08e91b/images/Screenshot%202025-01-19%20094642.png)
+
+Now that our SNS Topic was successfully created navigate to your aws management console to view your SNS Topic.
 
 ![image_alt]()
+
+
+
 
 
 
