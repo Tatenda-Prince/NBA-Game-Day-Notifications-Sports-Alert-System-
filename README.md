@@ -344,7 +344,7 @@ Paste it into the inline code editor.
 ~NBA_API_KEY: your NBA API key.
 ~SNS_TOPIC_ARN: the ARN of the SNS topic created earlier.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/19789ebc4421484cd5be7f3ee3bdec01b745d2d5/images/Screenshot%202025-01-19%20101148.png)
 
 9.Click Create Function.
 
