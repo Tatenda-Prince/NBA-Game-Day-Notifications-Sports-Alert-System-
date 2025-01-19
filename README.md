@@ -385,7 +385,9 @@ Paste it into the inline code editor.
    
    ## Congratulations
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/NBA-Game-Day-Notifications-Sports-Alert-System-/blob/15e66a9a5af5a9b0210b4c76c834fcadd0c4fe51/images/Screenshot%202025-01-19%20102428.png)
+
+
 
 
 
