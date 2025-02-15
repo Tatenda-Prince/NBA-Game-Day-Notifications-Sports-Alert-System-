@@ -1,4 +1,4 @@
-# NBA-Game-Day-Notifications-Sports-Alert-System
+# Real-Time NBA Game Day Notification System with Automated Alerts
 
 "Live Scores"
 
